@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you would like more info, please see [my website](https://Jon-Is-Generic.github.io)
+If you would like more info, please see [my website](https://Jon-Is-Generic.github.io). For privacy reasons, much of the personal information is redacted in favor of references to my resume, which I distribute to employers.
 
 <!--
 **Jon-Is-Generic/Jon-Is-Generic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
