@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you would like more info, please see [my website](https://Jon-Is-Generic.github.io)
+
 <!--
 **Jon-Is-Generic/Jon-Is-Generic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
